@@ -3,7 +3,7 @@ export const site = {
   title: "Labo Manioc",
   description: 'Labo Manioc website',
   lang: 'fr',
-  email: 'mohanjulien@gmail.com',
+  // email: 'mohanjulien@gmail.com',
   logo: '/logo/logo_mini_pink_sand_orange_leaves.png',
   home: {
     title: "Labo Manioc",
