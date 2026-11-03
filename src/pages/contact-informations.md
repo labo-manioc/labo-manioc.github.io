@@ -13,7 +13,7 @@ layout: ../layouts/GeneralLayout.astro
 
 ▶ **Domiciliation** : Saint-Leu, La Réunion, France.
 
-▶ **Couriel** : mohanjulien@gmail.com
+▶ **Couriel** : labomanioc@proton.me
 
 ▶ **Site web** : https://labo-manioc.github.io/
 
