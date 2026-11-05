@@ -19,7 +19,7 @@ layout: ../layouts/GeneralLayout.astro
 
 ▶ **Github** : https://github.com/labo-manioc 
 
-▶ **SIRET** : (en cours)
+▶ **SIRET** : 13239209300010
 
 ---
 
